@@ -96,7 +96,7 @@ A comprehensive cloud security and governance project for a UK-based technology 
 
 ---
  
-**💼 LinkedIn:** [www.linkedin.com/in/tobi-astron-65567a251
+**💼 LinkedIn:** [(https://www.linkedin.com/in/oluwatobiastron/)](https://www.linkedin.com/in/oluwatobiastron/)
 
 ---
 
