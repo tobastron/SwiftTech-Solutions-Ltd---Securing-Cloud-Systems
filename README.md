@@ -8,6 +8,7 @@
 A comprehensive cloud security and governance project for a UK-based technology company transitioning to a remote-first, cloud-based network. Includes IAM policies, risk assessments, ISO 27001 alignment, VPN configuration, and service management documentation.
 
 > **📄 Short Description:** SwiftTech Solutions Ltd., a UK tech company with hundreds of staff, has appointed a new head of infrastructure to manage its newly deployed cloud-based network. This supports remote, nomadic, and on-site workers with seamless access via BYOD and company devices.
+> Video demonstration https://youtu.be/WQP52k619Bg
 
 ---
 
