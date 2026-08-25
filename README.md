@@ -10,6 +10,14 @@ A comprehensive cloud security and governance project for a UK-based technology 
 > **📄 Short Description:** SwiftTech Solutions Ltd., a UK tech company with hundreds of staff, has appointed a new head of infrastructure to manage its newly deployed cloud-based network. This supports remote, nomadic, and on-site workers with seamless access via BYOD and company devices.
 > 
 > **🎥 Project Walkthrough Video:** (https://youtu.be/ayghhTJwezU)
+> 
+> TIMESTAMPS & TIMELINE ARCHITECTURE
+> 00:00 - Foundational Network Topology & 6-Subnet VPC
+01:31 - Isolated Private Backends & Directory Redundancy
+03:41 - Secure Boundary Verification & VPN Edge Routing
+06:21 - Active Directory Object Controls & Group Policies (GPOs)
+11:31 - User Persona Validation & Access Logic Controls
+14:11 - Stateful Port Hardening & DynamoDB Backup Pipelines
 
 ---
 
