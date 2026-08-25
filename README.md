@@ -7,8 +7,7 @@
 
 A comprehensive cloud security and governance project for a UK-based technology company transitioning to a remote-first, cloud-based network. Includes IAM policies, risk assessments, ISO 27001 alignment, VPN configuration, and service management documentation.
 
-> **📄 Short Description:** SwiftTech Solutions Ltd., a UK tech company with hundreds of staff, has appointed a new head of infrastructure to manage its newly deployed cloud-based network. This supports remote, nomadic, and on-site workers with seamless access via BYOD and company devices.
-> 
+> **📄 Short Description:** SDesigned and implemented a segregated AWS network for a remote-first UK company. Single VPC split into 3 public / 3 private subnets, with a public Apache web server, bastion host, and OpenVPN gateway (static Elastic IP) as the sole route into private resources — verified live by showing a browser request to a private resource time out, then succeed once tunnelled through the VPN. Deployed two redundant Active Directory Domain Controllers with OU/Group Policy enforcing least-privilege access, tested live against both an admin and a locked-down standard-user profile. Data layer on DynamoDB (customer, employee, product tables) with automated snapshot backups replicated to a versioned, encrypted S3 bucket. Security Groups scoped to VPN-only access, with VPC Flow Logs streamed to CloudWatch for continuous auditing. 
 > **🎥 Project Walkthrough Video:** (https://youtu.be/ayghhTJwezU)
 > 
 > TIMESTAMPS & TIMELINE ARCHITECTURE
@@ -116,4 +115,4 @@ A comprehensive cloud security and governance project for a UK-based technology 
 
 ---
 
-*This project was developed as part of a university module on cloud security and infrastructure governance (2023).*
+
